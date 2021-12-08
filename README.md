@@ -1,4 +1,4 @@
-# Findsajjad - A personal branding website.
+# Github Users - A github user details showing app.
 For getting users details from github , we used github-api.
 
 [Live_Link](https://githubuser.findsajjad.com/)
@@ -7,6 +7,7 @@ For getting users details from github , we used github-api.
    React JS.<br/>
    Plain CSS.<br/>
    Styled-Components [Learn/Check](https://styled-components.com/).
+   Github API. <br/>
 
 ## Installation and start
 
